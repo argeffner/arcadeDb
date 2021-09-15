@@ -1,16 +1,31 @@
 {
-  "posts":[
+  "snake": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "ASD",
+      "score": "5",
+      "id": "FyMUurE"
+    },
+    {
+      "name": "jon",
+      "score": "5",
+      "id": "-fIvR7b"
+    },
+    {
+      "name": "tester-man",
+      "score": "6",
+      "id": "_mGXR7k"
+    },
+    {
+      "name": "great",
+      "score": "7",
+      "id": "W86gefQ"
     }
   ],
-  "comments" : [
+  "pacman": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "corncob123",
+      "score": "10",
+      "id": "corncob123"
     }
   ]
 }
